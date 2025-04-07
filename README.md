@@ -1,5 +1,5 @@
 # 💫 About Me:
-🐢 I am a student at the University of Maryland - College Park<br>💻 My major is computer science<br>🌱 I am currently learning C and ASM<br>🧑‍💻 I enjoy frontend development and learning how to center a div<br>🎮 In my free time I like to play video games
+🐢 I am a student at the University of Maryland - College Park<br>💻 My major is computer science<br>🌱 I am currently learning OCaml and Rust<br>🧑‍💻 I enjoy frontend development and learning how to center a div<br>🎮 In my free time I like to play video games
 
 
 ## 🌐 Socials:
